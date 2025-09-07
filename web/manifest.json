@@ -1,13 +1,15 @@
 {
-    "name": "crypto_app",
-    "short_name": "crypto_app",
-    "start_url": ".",
+    "name": "Crypto Trading App",
+    "short_name": "CryptoApp",
+    "start_url": "/",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1A1A1A",
+    "theme_color": "#9AFF00",
+    "description": "Professional cryptocurrency trading application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "scope": "/",
+    "categories": ["finance", "business"],
     "icons": [
         {
             "src": "icons/Icon-192.png",
